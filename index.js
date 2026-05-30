@@ -1,5 +1,4 @@
-console.log("welcome to my playlists");
-
+console.log("welcome to my world");
 for(var i=0; i<10; i++){
-    console.log("song number " + i);
+    console.log(songnumber);
 }
